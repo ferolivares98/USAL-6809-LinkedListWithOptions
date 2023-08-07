@@ -1,4 +1,4 @@
-# Assembly 6809 - LinkedListWithOptions
+# Assembly 6809 - LinkedList_and_Deletion
 Práctica final de Computadores II en la Universidad de Salamanca.
 Nota: **10**
 
